@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Petagram</string>
+
+    <!--Description string images-->
+    <string name="description_img_star_icon">starFav</string>
+    <string name="description_img_avatar_pet">imgPet</string>
+    <string name="description_img_footprint">footPrint</string>
+    <string name="description_img_bone">boneImg</string>
+    <string name="description_img_bone_gold">boneGoldImg</string>
+    <!---->
+
+    <string name="pet_nickname">Nombre</string>
+    <string name="raiting_num_pet">0</string>
+    <string name="favorite_pets">Favorite Pets</string>
+</resources>
